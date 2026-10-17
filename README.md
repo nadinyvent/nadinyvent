@@ -21,6 +21,6 @@
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350">
 
 
