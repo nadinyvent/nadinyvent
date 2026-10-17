@@ -1,36 +1,27 @@
-<h1 align="center">Oieee, seja bem-vinda(a) 👋</h1>
+<h1 align="center">Olá 🤓💻 </h1>
 
 <table>
 <tr>
 <td width="55%">
 
-<h3>👩‍💻 Sobre Mim</h3>
+<h3> Sobre Mim</h3>
 
 <p>
-Me chamo <b>Nadiny Venturini da Silva</b>!
+Me chamo <b>Nadiny Venturini</b>!
 </p>
 
 <ul>
-<li>💻 Desenvolvedora de Software</li>
-<li>🔹 Conhecimentos em <b>C# e .NET</b></li>
-<li>📱 Desenvolvimento Mobile com <b>Flutter (Dart)</b></li>
-<li>🌐 Desenvolvimento Web com <b>HTML5 e CSS3</b></li>
+<li> Desenvolvedora de Software</li>
+<li> Conhecimentos em <b>C# e .NET</b></li>
+<li> Desenvolvimento Mobile com <b>Flutter (Dart)</b></li>
+<li> Desenvolvimento Web com <b>HTML5 e CSS3</b></li>
 <li>🔗 Consumo e integração de APIs REST</li>
-<li>📡 Requisições HTTP</li>
-<li>📄 Manipulação de JSON</li>
-<li>🧪 Testes de APIs com Postman</li>
-<li>🚀 Sempre buscando aprender novas tecnologias</li>
+<li>Requisições HTTP</li>
+<li> Manipulação de JSON</li>
+<li> Testes de APIs com Postman</li>
+<li> Sempre buscando aprender novas tecnologias</li>
 </ul>
 
-</td>
-
-<td width="45%">
-
-<img src="https://media/media/LmNwrBhejkK9EFP504/giphy.gif
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -47,17 +38,6 @@ Me chamo <b>Nadiny Venturini da Silva</b>!
 <img src="https://s.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=e&theme=tokyonight
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langsout=compact&theme=tokyonight
-</p>
-
----
 
 ## 🌐 Conecte-se Comigo
 
