@@ -7,7 +7,7 @@
 ##  Sobre Mim
 
 - 💻 Desenvolvedora de Software
--  esenvolvimento em **C# e .NET**
+-  Desenvolvimento em **C# e .NET**
 -  Desenvolvimento Mobile com **Flutter (Dart)**
 - 🌐 Desenvolvimento Web com **HTML5 e CSS3**
 - 🔗 Consumo e integração de APIs REST
