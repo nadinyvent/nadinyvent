@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem-vinda(a) 🤓</h1>
+<h1 align="center">Olá, seja bem-vinda(o) 🤓</h1>
 
 <table>
 <tr>
