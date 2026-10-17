@@ -20,7 +20,7 @@
 
 <td width="45%">
 
-https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/g
 
 </td>
 </tr>
@@ -28,15 +28,14 @@ https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif
 
 ## 🛠️ Tools I Know
 
-<p align="left">
-<img src="https://img.shields.io/badge/C%23-512BD4?styleadge&logo=csharp&logoColor=white
-<img src="https://img.shields.io/badgeD4?style=for-the-badge&logo=dotnet&logoColor=white
-<img src="https://img.shields.io/badge/Flutteryle=for-the-badge&logo=flutter&logoColor=white
-<img src="https://img.shields.io/badge/Dartyle=for-the-badge&logo=dart&logoColor=white
-<img src="https://img.shields.io/badge/HTML5-E34for-the-badge&logo=html5&logoColor=white
-<img src="https://img.shields.io/badgeB6?style=for-the-badge&logo=css3&logoColor=white
+<p>
+<img src="https://img.shieldsC%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
+<img src="https://img.shields.io/badge/.NET-le=for-the-badge&logo=dotnet&logoColor=white
+<img srcimg.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+<img src="https://s.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge5&logoColor=white
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white
 <img src="https://img.shields.io/badge/Postmanyle=for-the-badge&logo=postman&logoColor=white
-<img srcimg.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 </p>
 
 ## 📊 GitHub Stats
@@ -49,6 +48,8 @@ https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif
 
 ## 🌐 Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/nadiny-venturini-6b2822341">
-<img src="https://img.shields.io/badge/LinkedIn-Nnturini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+<p align="left">
+<a href="https://www.linkedin.com/in/nadiny-venturini-6b2822341/" target="_blank">
+<img src="https://imgo/badge/LinkedIn-Nadiny%20Venturini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 </a>
+</p>
