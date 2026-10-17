@@ -1,30 +1,32 @@
-<h1 align="center">Oieee, seja bem-vindo(a) </h1>
+<h1 align="center">Oieee, seja bem-vinda(a) 👋</h1>
 
 <table>
 <tr>
 <td width="55%">
 
-### Sobre Mim
+<h3>👩‍💻 Sobre Mim</h3>
 
-Me chamo **Nadiny Venturini**!
+<p>
+Me chamo <b>Nadiny Venturini da Silva</b>!
+</p>
 
- Desenvolvedora de Software
-
- Conhecimentos em desenvolvimento com **C# e .NET**
-
- Desenvolvimento web com **HTML5 e CSS3**
-
- Experiência com **APIs REST**, requisições HTTP e manipulação de JSON
-
- Testes de APIs utilizando **Postman**
-
-Sempre buscando aprender novas tecnologias e desenvolver soluções inovadoras.
+<ul>
+<li>💻 Desenvolvedora de Software</li>
+<li>🔹 Conhecimentos em <b>C# e .NET</b></li>
+<li>📱 Desenvolvimento Mobile com <b>Flutter (Dart)</b></li>
+<li>🌐 Desenvolvimento Web com <b>HTML5 e CSS3</b></li>
+<li>🔗 Consumo e integração de APIs REST</li>
+<li>📡 Requisições HTTP</li>
+<li>📄 Manipulação de JSON</li>
+<li>🧪 Testes de APIs com Postman</li>
+<li>🚀 Sempre buscando aprender novas tecnologias</li>
+</ul>
 
 </td>
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/LmNwrBhe/giphy.gif
+<img src="https://media/media/LmNwrBhejkK9EFP504/giphy.gif
 
 </td>
 </tr>
@@ -35,29 +37,32 @@ Sempre buscando aprender novas tecnologias e desenvolver soluções inovadoras.
 ## 🛠️ Tools I Know
 
 <p>
-<img src="https://img.shadge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
-<img src="https://img.shields.io/badge/.?style=for-the-badge&logo=dotnet&logoColor=white
-<img src="https://img.shields.io/badge/569B?style=for-the-badge&logo=flutter&logoColor=white
-<img src="https://img.shields.io/badge/Dart-0175C2?style=dge&logo=dart&logoColor=white
-<img src="https://img.shields.io/badge/26?style=for-the-badge&logo=html5&logoColor=white
-<img src="https://img.shields.io/badgeB6?style=for-the-badge&logo=css3&logoColor=white
-<img src="https://img.shields.io/badge/Postman-FF6C37-the-badge&logo=postman&logoColor=white
-<img src="https://img.shields.io/badge/Git-F05032?style=dge&logo=git&logoColor=white
+<img src="httpselds.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white
+<img src="https://img.shields.io/badge/.NET-512BD4-the-badge&logo=dotnet&logoColor=white
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-logo=flutter&logoColor=white
+<img src="https://img.shields.io/badge/Dart-017for-the-badge&logo=dart&logoColor=white
+<img src="https://img.shields.io/badge/HTML5yle=for-the-badge&logo=html5&logoColor=white
+<img src="https://img.shields.io/badge/CSS3yle=for-the-badge&logo=css3&logoColor=white
+<img src="https://img.shields.io/badge/Postmanyle=for-the-badge&logo=postman&logoColor=white
+<img src="https://s.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e&theme=tokyonight
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?t=compact&theme=tokyonight
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langsout=compact&theme=tokyonight
+</p>
 
 ---
 
-## 🌐 Contato
+## 🌐 Conecte-se Comigo
 
+<p>
 <a href="https://www.linkedin.com/in/nadiny-venturini-6b2822341">
-<img src="https://img.shields.io/badge/LinkedIn-Nadiny%20Venturini-0A66C2?style=for-logo=linkedin&logoColor=white
+<img src="https://img.shields.io/badge/LinkedIn-Nadiny%20Venturini-0A66C2?style=for-the-badge&logo=ogoColor=white
 </a>
--->
+</p>
